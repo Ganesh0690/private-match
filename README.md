@@ -44,3 +44,9 @@ arcium deploy --cluster-offset 456 --recovery-set-size 4 --keypair-path ~/.confi
 ## License
 
 MIT
+
+## Deployed on Solana Devnet
+
+- **Program ID:** `FK6iXAx5Bd86x1ypL5Nq91D6HXFXXWTJ1CjSmguwA9i5`
+- **Explorer:** https://explorer.solana.com/address/FK6iXAx5Bd86x1ypL5Nq91D6HXFXXWTJ1CjSmguwA9i5?cluster=devnet
+- **Live Demo:** https://private-match.vercel.app/
